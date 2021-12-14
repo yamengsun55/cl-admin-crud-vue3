@@ -300,6 +300,9 @@ export default defineComponent({
 					labelWidth: "140px"
 				},
 				items,
+				form: {
+					qs: [1]
+				},
 				on: {
 					submit(data, { done }) {
 						console.log(data);
