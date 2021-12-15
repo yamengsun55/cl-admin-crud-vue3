@@ -1,4 +1,4 @@
-# Crud
+# Crud for Ja
 
 文档地址：[https://cool-js.com/front/vue.html](https://cool-js.com/front/vue.html)
 
